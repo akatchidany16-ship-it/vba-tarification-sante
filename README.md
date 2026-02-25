@@ -26,7 +26,6 @@ L'utilisateur saisit les caractéristiques du client via un formulaire (UserForm
    - `LancerTarification` permet d’exécuter l’application depuis un bouton ou un logo inséré dans la feuille Excel.
 ## Formule de tarification
 Prime = Base x CoeffAge x CoeffIMC x CoeffSexe x CoeffCouverture x CoeffOptions x CoeffFumeur
-- Base fixe (ex : 10 000 FCFA)
 - Coefficients ajustés selon les caractéristiques du client :
   - Age : surcote à partir de 30 et 50 ans
   - IMC : surcharge pour IMC élevé

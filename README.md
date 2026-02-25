@@ -1,7 +1,7 @@
 # Application Excel/VBA – Tarification Assurance Santé
 
 ## Contexte
-Ce projet a été réalisé dans le cadre de la formation en actuariat à l'ISFA. L'objectif était de créer une application interactive sous Microsoft Excel, utilisant le langage VBA, permettant de simuler la tarification d'un produit d'assurance santé.
+L'objectif était de créer une application interactive sous Microsoft Excel, utilisant le langage VBA, permettant de simuler la tarification d'un produit d'assurance santé.
 
 L'utilisateur saisit les caractéristiques du client via un formulaire (UserForm), et la prime d'assurance est calculée automatiquement selon une formule personnalisable basée sur les données entrées.
 
